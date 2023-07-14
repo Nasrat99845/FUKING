@@ -246,7 +246,7 @@ def FKING():
 			elif jf in ['2','02']:
 			 os.system('xdg-open https://www.facebook.com/profile.php?id=100090642414392/')
 			elif jf in ['3','03']:
-			 os.system('xdg-open https://chat.whatsapp.com/KZk9MHGy8YwJjEg8OpZjm9')
+			 os.system('xdg-open ('xdg-open https://chat.whatsapp.com/KZk9MHGy8YwJjEg8OpZjm9')
 			elif jf in ['0','00']:
 				exit(' Thanks for use 🥰 ')
 			else:
